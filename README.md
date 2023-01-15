@@ -4,11 +4,16 @@ Gerenciamento de uma loja entregando os endpoints para realizar listagem, cadast
 atualização e remoção de produtos.
 
 ## :rocket:Instalação
-Para rodar o repositório é necessário clonar o mesmo, dar o seguinte comando para instalar as dependencias:
+Para rodar o repositório é necessário clonar o mesmo, 
 
+    git clone https://github.com/Marcos-OLiveiraVO/Shop-manager-.git
+    
+    
+dar o seguinte comando para instalar as dependencias:
 ```bash
-$ yarn 
+$ yarn  ou npm install
 ```
+
 
 ## Rodar o app
 
