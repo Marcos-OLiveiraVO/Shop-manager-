@@ -32,6 +32,9 @@ $ yarn  ou npm install
     
     DELETE /products/:id => deleta um produto pelo id.
     
+Utilizando o insomnia para fazer as requisições.
+
+![unknown_2023 01 15-16 30](https://user-images.githubusercontent.com/88260644/212563019-8906d664-3fbe-4b58-a175-58409ccc2c82.gif)
 
 
 <h4> 🛠 Projeto foi desenvolvido utilizando as seguintes tecnologias e conceitos: <h4>
