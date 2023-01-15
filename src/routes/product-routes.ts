@@ -7,10 +7,10 @@ import { deleteProduct } from "../controllers/product-delete";
 
 const router = Router();
 
-router.get("/", getAll);
 router.post("/", createProduct);
-router.get("/:id", getById);
 router.put("/:id", updateProduct);
+router.get("/:id", getById);
+router.get("/", getAll);
 router.delete("/:id", deleteProduct);
 
 export default router;
