@@ -12,7 +12,6 @@ interface Product extends Document {
 }
 
 const ProductSchema = new Schema({
-  id: { type: String, required: true },
   name: { type: String, required: true },
   category: { type: String, required: true },
   status: { type: String, required: true },
