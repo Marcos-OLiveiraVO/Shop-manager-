@@ -1,7 +1,7 @@
 import { Request, Response } from "express";
 import { ProductModel } from "../database/Products";
 
-export const listProduct = async (req: Request, res: Response) => {
+export const getById = async (req: Request, res: Response) => {
   try {
     const { id } = req.params;
     const product = await ProductModel.findById(id);
