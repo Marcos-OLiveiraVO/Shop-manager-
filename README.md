@@ -1,43 +1,48 @@
 # Shop-manager
 
-Gerenciamento de uma loja entregando os endpoints para realizar listagem, cadastro,
-atualização e remoção de produtos.
+Management of a store delivering the endpoints to carry out listing, registration,
 
-## :rocket:Instalação
-Para rodar o repositório é necessário clonar o mesmo, 
+updating and removing products.
+
+## :rocket:Installation
+To run the repository it is necessary to clone it,
 
     git clone https://github.com/Marcos-OLiveiraVO/Shop-manager-.git
     
     
-dar o seguinte comando para instalar as dependencias:
+Run the following command to install the dependencies:
 ```bash
 $ yarn  ou npm install
 ```
+Or
 
+```bash
+$ npm install
+```
 
-## Rodar o app
+## Running the app
 
 
     $ yarn dev
 
-## Rotas
+## Routes
 
-    POST /products/  => Cria um novo produto.
+    POST /products/  => Create a new product.
     
-    GET  /products/ => Lista todos os produtos.
+    GET  /products/ => list all products.
 
-    GET /products/:id => retorna um produto pelo id.
+    GET /products/:id => returns a product by id.
     
-    PUT /products/:id => atualiza um produto pelo id.
+    PUT /products/:id => update a product by id.
     
-    DELETE /products/:id => deleta um produto pelo id.
+    DELETE /products/:id => delete a product by id.
     
-Utilizando o insomnia para fazer as requisições.
+You can use the insomnia app to do the requests.
 
 ![unknown_2023 01 15-16 30](https://user-images.githubusercontent.com/88260644/212563019-8906d664-3fbe-4b58-a175-58409ccc2c82.gif)
 
 
-<h4> 🛠 Projeto foi desenvolvido utilizando as seguintes tecnologias e conceitos: <h4>
+<h4> 🛠 Project was developed using the following technologies and concepts: <h4>
 
     - Node.
     - Typescript.
