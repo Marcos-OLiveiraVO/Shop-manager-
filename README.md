@@ -5,7 +5,7 @@ Management of a store delivering the endpoints to carry out listing, registratio
 updating and removing products.
 
 ## :rocket:Installation
-To run the repository it is necessary to clone it,
+To run the repository it is necessary to clone it.
 
     git clone https://github.com/Marcos-OLiveiraVO/Shop-manager-.git
     
