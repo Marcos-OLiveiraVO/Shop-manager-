@@ -47,6 +47,6 @@ You can use the insomnia app to do the requests.
     - Node.
     - Typescript.
     - express.
-    - mongoDB;
+    - mongoDB.
     - mongoose.
     
